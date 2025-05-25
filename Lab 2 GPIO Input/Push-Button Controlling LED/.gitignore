@@ -1,0 +1,22 @@
+# Ignore Keil build artifacts
+*.axf
+*.crf
+*.d
+*.o
+*.htm
+*.lnp
+*.map
+*.sct
+*.lst
+*.tra
+*.uvguix.*
+
+# Backup files
+*.bak
+*.dep
+*.plg
+
+# Build folders
+/Objects/
+/Listings/
+/DebugConfig/
